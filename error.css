@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*---------------------------------------
+ERROR
+-----------------------------------------*/
+.error{ position:relative;
+float:none;
+background-image: url(img/wp.jpg);
+background-repeat:no-repeat;
+background-size: cover;
+background-position:center;
+border:0;
+padding:0;
+width:100%;
+height:600px;
+}
+.pelitres {
+width:40%;
+position:relative;
+float: right;
+padding:40px;
+
+}
+.pelitres h1 {
+color:#900;
+font-size:100px;
+position:relative;
+font-weight:800;
+margin:0px;
+text-align:center;
+}
+.pelitres h2 {
+color:#FFF;
+font-size:43px;
+font-weight:600;
+position:relative;
+font-style:italic;
+margin:0px;
+text-align:center;
+}
+.pelitres a {
+color:#900;
+font-size:13px;
+font-weight:400;
+text-align:center;
+border: 1px solid #900;
+border-radius: 1em;
+padding:10px;
+}
+.pelitres p {
+color:#FFF;
+font-size:14px;
+font-weight:400;
+position:relative;
+font-style:italic;
+margin:0px;
+text-align:center;
+}
+
